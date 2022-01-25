@@ -4,7 +4,7 @@
 ### Hi There 👋
 
    
-  <h3 align="center">✨I'm :sun_with_face:rm-dat/rukiye macit:sun_with_face: Beginner passionate python/javascript/java/frontend developer from Turkiye✨</h3>
+  <h3 align="center">✨I'm :sun_with_face:rm-dat/rukiye macit:sun_with_face: Beginner passionate python/javascript/java/frontend developer✨</h3>
 
 
 

@@ -14,7 +14,7 @@
   * :books: Ahmet Yesevi University :gem:2020 :gem: BS **Computer Eng** :computer:
   * :books: Marmara Unıversity :gem: 2012 :gem: **MS Biophysics** :chart_with_upwards_trend:
   * :books: Istanbul Unıversity :gem: 2010 :gem: **Non-Thesis MS Physic Teacher** :pencil2:
-  * :books: Yıldız Technıcal Unıversıty :gem: 2009 :gem: **MS Physic** :book:
+  * :books: Yıldız Technıcal Unıversıty :gem: 2009 :gem: **BS Physic** :book:
 
 - 🌱 I’m currently learning **python, JavaScript, Data Science**
 

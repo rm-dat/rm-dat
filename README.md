@@ -4,7 +4,7 @@
 ### Hi There 👋
 
    
-  <h3 align="center">✨I'm :sun_with_face:rm-dat/rukiye macit:sun_with_face: trainer python/javascrip developer✨</h3>
+  <h3 align="center">✨I'm :sun_with_face:rm-dat/rukiye macit:sun_with_face: trainer python/javascript/java developer✨</h3>
 
 
 
